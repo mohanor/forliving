@@ -1,0 +1,9 @@
+@media screen and (min-width: 992px){
+    .btn-des {
+        display: block;
+    }
+    
+    .btn-mobile {
+        display: none;
+    }
+}

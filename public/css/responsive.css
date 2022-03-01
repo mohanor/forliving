@@ -1,0 +1,27 @@
+@media (min-width: 489px) {
+    .col-mg-b p {
+        width: 70%;
+        margin: 0 auto;
+    }
+}
+
+@media only screen and (min-width: 576px) { 
+    .col-mg-b {
+        margin-bottom: 0px;
+    }
+}
+
+@media (min-width: 768px) { 
+    .col-mg-b p {
+        width: auto;
+        margin: auto;
+    }
+}
+
+@media (min-width: 992px) { 
+
+}
+
+@media (min-width: 1200px) { 
+
+}
